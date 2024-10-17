@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.exe
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\interface-segregation-principle\InterfaceSegregationPrinciple\obj\Debug\net8.0\ref\InterfaceSegregationPrinciple.dll
